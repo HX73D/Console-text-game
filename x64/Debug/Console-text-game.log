@@ -1,0 +1,4 @@
+﻿  Console-text-game.cpp
+C:\Users\HX73D\Desktop\Console-text-game\Console-text-game\Console-text-game.cpp(71,9): warning C4101: 'y': unreferenced local variable
+C:\Users\HX73D\Desktop\Console-text-game\Console-text-game\Console-text-game.cpp(70,9): warning C4101: 'x': unreferenced local variable
+  Console-text-game.vcxproj -> C:\Users\HX73D\Desktop\Console-text-game\x64\Debug\Console-text-game.exe
